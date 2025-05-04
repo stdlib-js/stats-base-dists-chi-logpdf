@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-05-04)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`7788818`](https://github.com/stdlib-js/stdlib/commit/77888181398b4aa628194b37b058e262c8bdb7fd) - **docs:** replace manual `for` loop in examples [(#6921)](https://github.com/stdlib-js/stdlib/pull/6921) _(by Harsh)_
+-   [`23c60da`](https://github.com/stdlib-js/stdlib/commit/23c60daf037b609ab1315f45448e0ba52a89c247) - **docs:** remove spaces before periods _(by Philipp Burckhardt)_
 -   [`b3540a8`](https://github.com/stdlib-js/stdlib/commit/b3540a8ffa4c9cd3122e660a68dcbe286330b5e6) - **bench:** refactor random number generation in `stats/base/dists/chi` [(#4853)](https://github.com/stdlib-js/stdlib/pull/4853) _(by Karan Anand)_
 
 </details>
@@ -24,9 +26,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
